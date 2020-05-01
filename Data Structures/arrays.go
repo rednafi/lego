@@ -9,18 +9,15 @@ import "fmt"
 - Arrays types are 1D but high dimensional arrays can be formed using 1D arrays
 */
 
-
-
 func main() {
 	// Declaring an array of integers with length 5
-
 	var a [5]int
 
 	// Filling up array by index
 	a[0] = 1
 	a[2] = 2
 
-	// Declaring and initializing
+	// Declaring and initializing with composite literal
 	b := [4]string{"hello", "from", "the", "compiler"}
 
 	// Filling up array with a for loop

@@ -15,7 +15,7 @@ var (
 	floatVar   float64 = 5.7
 )
 
-// Defining & initializing varible with := operator
+// Defining & initializing variable with := operator
 // This is only valid inside functions
 func dummyFunc() (int, string, float64) {
 	dummyInt := 5 //Compiler infers the type
@@ -27,7 +27,8 @@ func dummyFunc() (int, string, float64) {
 func main() {
 	fmt.Println("a:", a)
 	fmt.Println("b:", b, "c:", c)
-	fmt.Println("integerVar:", integerVar, "stringVar:", stringVar, "floatVar:", floatVar)
+	fmt.Println("integerVar:", integerVar, "stringVar:",
+		stringVar, "floatVar:", floatVar)
 
 	dummyInt, dummyString, dummyFloat := dummyFunc()
 	fmt.Println("dummyInt:", dummyInt, "dummyString:", dummyString, "dummyFloat:", dummyFloat)

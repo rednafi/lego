@@ -6,7 +6,7 @@ import "fmt"
 - Slices are similar to arrays, only more powerful
 - Their size is not fixed and can be updated dynamically
 - Indexing starts from 0
-- Slicing is half-open 
+- Slicing is half-open
 - However, while dynamically increasing or decreasing their size, slices use more memrory. So if you know the size of your container, arrays are a better choice. Use slices judiciously.
 */
 
@@ -36,7 +36,8 @@ func main() {
 
 	fmt.Println("s append:", s)
 
-	// Slicing is done by specifying a half-open range with two indices separated by a colon
+	// Slicing is done by specifying a half-open range
+	// with two indices separated by a colon
 	fmt.Println("sl 2 to 4", s[2:4])
 	fmt.Println("sl upto 3", s[:3])
 	fmt.Println("sl from 2 to last", s[2:])

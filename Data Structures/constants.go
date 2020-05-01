@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Constants can be defined just like variables but they are immutable
+/*Constants can be defined just like variables but they are immutable*/
 
 // Multiple constants
 const a, b int = 1, 2
