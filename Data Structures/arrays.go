@@ -9,6 +9,8 @@ import "fmt"
 - Arrays types are 1D but high dimensional arrays can be formed using 1D arrays
 */
 
+
+
 func main() {
 	// Declaring an array of integers with length 5
 
