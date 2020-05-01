@@ -9,9 +9,9 @@ const a, b int = 1, 2
 
 // Another way
 const (
-	pi float64 = 3.141
+	pi  float64 = 3.141
 	phi float64 = 1.618
-	e float64 = 2.718
+	e   float64 = 2.718
 )
 
 func main() {
@@ -20,4 +20,3 @@ func main() {
 	// Print the types
 	fmt.Printf("Type of a is %T and type of b is %T", a, b)
 }
-
