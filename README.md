@@ -7,7 +7,10 @@
 ### Arrays & Slices
 * [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
 
-* [Go Slices: Usage & Internals](https://blog.golang.org/slices-intro)
+* [Go Slices: usage and internals](https://blog.golang.org/slices-intro)
+
+### Maps
+* [Go maps in action](https://blog.golang.org/maps)
 
 ### Idioms
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
