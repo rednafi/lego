@@ -4,11 +4,8 @@ import "fmt"
 
 /*
 - Arrays have fixed length
-
 - They are zero indexed
-
 - Length of an array can be derived with len function.
-
 - Arrays types are 1D but high dimensional arrays can be formed using 1D arrays
 */
 
