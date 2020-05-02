@@ -1,5 +1,9 @@
 # Resources
 
+## Prelude
+
+[Learning Go from Zero to Hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
+
 ## Data Structures
 
 1. [Go by Examples](https://gobyexample.com/)
