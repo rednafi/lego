@@ -2,7 +2,11 @@
 
 ## Prelude
 
+### Learning Path
+* [My Experience with Learning Golang](https://pmihaylov.com/learning-golang-experience/)
 * [Learning Go from Zero to Hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
+
+### Pitfalls
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 ## Data Structures
 
