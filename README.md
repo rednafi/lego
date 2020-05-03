@@ -36,6 +36,16 @@
 
 * [Go maps in action](https://blog.golang.org/maps)
 
+### Structs
+
+* [Structures in Go](https://medium.com/rungo/structures-in-go-76377cc106a2)
+
+### Methods
+* [Anatomy of Methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
+
+### Interfaces
+* [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
+
 ### Idioms
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
