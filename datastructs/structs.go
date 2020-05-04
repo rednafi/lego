@@ -15,7 +15,7 @@ func makeClass(name string) *class {
 
 func main() {
 	// Construct the struct
-	fmt.Println("raw struct:", class{name: "firstG", students: 100})
+	fmt.Println("raw struct:", class{name: "firstG", students: 100,})
 
 	// Construct the struct via function
 	fmt.Println("from function", makeClass("secondG"))
