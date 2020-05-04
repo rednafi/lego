@@ -3,13 +3,16 @@
 ## Prelude
 
 ### Media
+
 * [Golang Experts to Follow Online](https://blog.newrelic.com/technology/golang-experts-follow-online/)
 
 ### Learning Path
+
 * [My Experience with Learning Golang](https://pmihaylov.com/learning-golang-experience/)
 * [Learning Go from Zero to Hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
 
 ### Pitfalls
+
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 ## Data Structures
@@ -41,12 +44,17 @@
 * [Structures in Go](https://medium.com/rungo/structures-in-go-76377cc106a2)
 
 ### Methods
+
 * [Anatomy of Methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
 
 ### Interfaces
+
 * [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 
 ### Errors
+
+This article explains how `errors` is implemented internally as an interface and how to write custom arbitrary error interfaces.
+
 * [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 
 ### Idioms
