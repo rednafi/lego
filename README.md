@@ -46,6 +46,9 @@
 ### Interfaces
 * [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 
+### Errors
+* [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+
 ### Idioms
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)

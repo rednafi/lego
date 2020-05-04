@@ -21,7 +21,8 @@ type argError struct {
 }
 
 // Define the Error method
-// While fmt.Prinf simply prints a formatted string, fmt.Sprint creates the string and then returns it
+// While fmt.Prinf simply prints a formatted string,
+// fmt.Sprint creates the string and then returns it
 func (e *argError) Error() string {
 	return fmt.Sprintf("arg: %d, problem: %s", e.arg, e.prob)
 }
