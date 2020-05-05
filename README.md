@@ -45,6 +45,12 @@
 
 * [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 
+#### Concurrency & Goroutines
+
+* [A Succinct Intro to Concurrency](https://golangbot.com/concurrency/)
+* [Goroutines](https://golangbot.com/goroutines/)
+* [Channels](https://golangbot.com/channels/)
+
 #### Errors
 
 * [Error handling and Go](https://blog.golang.org/error-handling-and-go)

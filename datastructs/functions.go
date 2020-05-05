@@ -35,6 +35,6 @@ func someDiv(a, b int) (float64, bool) {
 func main() {
 	fmt.Println("result someAdd:", someAdd(1, 2))
 	fmt.Println("result variadicAdd:", variadicAdd(0, 100, 200))
-	res, ok := someDiv(1,0)
+	res, ok := someDiv(1, 0)
 	fmt.Println("result someDiv:", res, ok)
 }
