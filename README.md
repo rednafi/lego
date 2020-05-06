@@ -46,7 +46,7 @@
 
 #### Pointers
 
-* [Understand Go pointers in less than 800 words](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back]
+* [Understand Go pointers in less than 800 words](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back])
 * [Understanding Pointers in Go](https://www.google.com/amp/s/www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go.amp)
 
 #### Concurrency & Goroutines
