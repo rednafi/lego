@@ -67,7 +67,7 @@
 ### Idioms
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
-
+* [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Pitfalls
 
