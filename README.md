@@ -61,7 +61,7 @@
 
 
 ### DevOps
-* [Json Parsing Using Empty Interface](https://medium.com/@irshadhasmat/golang-simple-json-parsing-using-empty-interface-and-without-struct-in-go-language-e56d0e69968)
+* [GoLang : Dynamic JSON Parsing using empty Interface and without Struct in Go Language](https://medium.com/@irshadhasmat/golang-simple-json-parsing-using-empty-interface-and-without-struct-in-go-language-e56d0e69968)
 * [Json & Go](https://blog.golang.org/json)
 
 ### Idioms
