@@ -59,6 +59,10 @@
 
 * [Versioned Go and the future of package management](https://medium.com/blue-harvest-tech-blog/versioned-go-and-the-future-of-package-management-2fe5d56d7699)
 
+
+### DevOps
+* [Json Parsing Using Empty Interface](https://medium.com/@irshadhasmat/golang-simple-json-parsing-using-empty-interface-and-without-struct-in-go-language-e56d0e69968)
+
 ### Idioms
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
