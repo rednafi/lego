@@ -24,7 +24,6 @@
 #### Arrays & Slices
 
 * [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
-
 * [Go Slices: usage and internals](https://blog.golang.org/slices-intro)
 
 #### Maps
@@ -42,6 +41,11 @@
 #### Interfaces
 
 * [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
+
+#### Pointers
+
+* [Understand Go pointers in less than 800 words](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back])
+* [Understanding Pointers in Go](https://www.google.com/amp/s/www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go.amp)
 
 #### Concurrency & Goroutines
 
@@ -67,6 +71,7 @@
 ### Idioms
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
+* [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Pitfalls
 
