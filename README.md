@@ -41,6 +41,7 @@
 #### Interfaces
 
 * [Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
+* [How to Use Interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 #### Pointers
 
