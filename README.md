@@ -14,12 +14,10 @@
 
 ### Prelude
 
-
 #### Learning Path
 
 * [My Experience with Learning Golang](https://pmihaylov.com/learning-golang-experience/)
 * [Learning Go from Zero to Hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
-
 
 ### Data Structures
 
@@ -54,6 +52,7 @@
 #### Errors
 
 * [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+* [Creating Custom Errors in Go](https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go)
 
 ### Versioning & Package Management
 
@@ -61,6 +60,7 @@
 
 
 ### DevOps
+
 * [GoLang : Dynamic JSON Parsing using empty Interface and without Struct in Go Language](https://medium.com/@irshadhasmat/golang-simple-json-parsing-using-empty-interface-and-without-struct-in-go-language-e56d0e69968)
 * [Json & Go](https://blog.golang.org/json)
 
@@ -68,15 +68,13 @@
 
 * [Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go)
 
-
 ### Pitfalls
 
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
-
 ## Talks
-* [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 
+* [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 
 ## Media
 
