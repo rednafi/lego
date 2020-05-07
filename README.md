@@ -72,6 +72,10 @@
 
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
+### Design Decisions
+
+* [Go's Declaration Syntax](https://blog.golang.org/declaration-syntax)
+
 ## Talks
 
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
