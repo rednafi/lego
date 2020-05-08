@@ -82,6 +82,10 @@
 
 * [Go's Declaration Syntax](https://blog.golang.org/declaration-syntax)
 
+## Books
+
+* [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
+
 ## Talks
 
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
