@@ -3,6 +3,13 @@
 <h4> Learning + Go : Documenting the journey as I Go along
 </div>
 
+## Installation & Project Setup
+
+The following document gives you a simple shell script to install and upgrade Go. Also, it explains how to set up a simple project in Go, and how the import structure
+works.
+
+See the instructions [here](./calc/docs.md).
+
 
 ## Syntax
 
