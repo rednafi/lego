@@ -6,7 +6,7 @@ package main
 func Repeat(s string) string {
 
 	t := ""
-	for i:=0; i<5; i++ {
+	for i := 0; i < 5; i++ {
 		t += s
 	}
 	return t
