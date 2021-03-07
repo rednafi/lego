@@ -45,7 +45,7 @@ func TestSumAll(t *testing.T) {
 
 	t.Run("sum where one input is empty slice", func(t *testing.T) {
 		got := SumAll([]int{}, []int{0, 9})
-		want :=  []int{0, 9}
+		want := []int{0, 9}
 
 		if !reflect.DeepEqual(got, want) {
 			t.Errorf("got %v want %v", got, want)
