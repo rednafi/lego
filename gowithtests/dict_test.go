@@ -67,7 +67,7 @@ func assertString(t testing.TB, got, want string) {
 
 }
 
-func assertKeyError(t testing.TB, ok error) {
+func zassertKeyError(t testing.TB, ok error) {
 	t.Helper()
 	if ok == nil {
 		t.Errorf("key error did not occur when expecting that")
